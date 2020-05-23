@@ -1,6 +1,6 @@
 
 // 暴力法
-class Solution {
+class Solution189 {
     public void rotate(int[] nums, int k) {
         for (int i = 0; i < k; i++) {
             rotate1(nums);

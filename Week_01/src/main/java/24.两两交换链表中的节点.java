@@ -1,3 +1,5 @@
+import java.util.List;
+
 /**
  * Definition for singly-linked list.
  * public class ListNode {
@@ -6,7 +8,14 @@
  *     ListNode(int x) { val = x; }
  * }
  */
-class Solution {
+class Solution24 {
+
+    private class ListNode {
+        int value;
+        ListNode next;
+        public ListNode(int value) { this.value = value; }
+    }
+
     public ListNode swapPairs(ListNode head) {
         ListNode dummy = new ListNode(0);
         dummy.next = head;

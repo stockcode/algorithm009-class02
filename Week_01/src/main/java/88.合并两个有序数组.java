@@ -1,4 +1,4 @@
-class Solution {
+class Solution88 {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
 
         //初始化临时数组
