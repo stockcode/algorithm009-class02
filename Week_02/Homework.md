@@ -11,7 +11,7 @@
 HeapSort ：自学 https://www.geeksforgeeks.org/heap-sort/
 ##中等：
 
-[字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/)（亚马逊在半年内面试中常考）
+[~~字母异位词分组~~](https://leetcode-cn.com/problems/group-anagrams/)（亚马逊在半年内面试中常考）
 
 [~~二叉树的中序遍历~~](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)（亚马逊、字节跳动、微软在半年内面试中考过）
 
