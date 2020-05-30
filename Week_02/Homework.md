@@ -21,7 +21,7 @@ HeapSort ：自学 https://www.geeksforgeeks.org/heap-sort/
 
 [丑数](https://leetcode-cn.com/problems/chou-shu-lcof/)（字节跳动在半年内面试中考过）
 
-[前K个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/)（亚马逊在半年内面试中常考）
+[~~前K个高频元素~~](https://leetcode-cn.com/problems/top-k-frequent-elements/)（亚马逊在半年内面试中常考）
 
 ##下周预习
 预习题目：
