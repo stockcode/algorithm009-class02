@@ -6,6 +6,8 @@ class Solution94 {
         List<Integer> result = new ArrayList<>();
 
         helper(root, result);
+
+        return result;
     }
 
     private void helper(TreeNode root, List<Integer> result) {
