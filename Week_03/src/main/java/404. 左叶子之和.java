@@ -1,18 +1,13 @@
 class Solution404 {
-    private int result = 0;
-
     public int sumOfLeftLeaves(TreeNode root) {
-        helper(root, root);
-
-        return result;
+        return helper(root, false);
     }
 
-    private void helper(TreeNode root, TreeNode parent) {
-        if (root == null) return;
+    private int helper(TreeNode root, boolean isLeft) {
+        if (root == null) return 0;
 
-        if (root.left == null && root.right == null && parent.left == root) result += root.val;
+        if (root.left == null && root.right == null && isLeft) return root.val;
 
-        helper(root.left, root);
-        helper(root.right, root);
+        return helper(root.left, true) + helper(root.right, false);
     }
 }
