@@ -4,7 +4,7 @@
 * [~~~105. 从前序与中序遍历序列构造二叉树~~~](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
 * [~~~77. 组合~~~](https://leetcode-cn.com/problems/combinations/)
 * [~~~46. 全排列~~~](https://leetcode-cn.com/problems/permutations/)
-* [47. 全排列 II](https://leetcode-cn.com/problems/permutations-ii/)
+* [~~~47. 全排列 II~~~](https://leetcode-cn.com/problems/permutations-ii/)
 #下周预习
 ##预习题目：
 * [二叉树的层次遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)
