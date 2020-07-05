@@ -1,6 +1,6 @@
 #本周作业
 ##简单
-* [爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/) （阿里巴巴、腾讯、字节跳动在半年内面试常考）
+* [~~爬楼梯~~](https://leetcode-cn.com/problems/climbing-stairs/) （阿里巴巴、腾讯、字节跳动在半年内面试常考）
 ##中等
 * [~~~实现 Trie (前缀树)~~~](https://leetcode-cn.com/problems/implement-trie-prefix-tree/) （亚马逊、微软、谷歌在半年内面试中考过）
 * [~~~朋友圈~~~](https://leetcode-cn.com/problems/friend-circles/) （亚马逊、Facebook、字节跳动在半年内面试中考过）
