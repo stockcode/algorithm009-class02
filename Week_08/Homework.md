@@ -1,7 +1,7 @@
 #本周作业
 ##简单
 * [~~位 1 的个数~~](https://leetcode-cn.com/problems/number-of-1-bits) （Facebook、苹果在半年内面试中考过）
-* [2 的幂](https://leetcode-cn.com/problems/power-of-two/) （谷歌、亚马逊、苹果在半年内面试中考过）
+* [~~2 的幂~~](https://leetcode-cn.com/problems/power-of-two/) （谷歌、亚马逊、苹果在半年内面试中考过）
 * [颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits/) （苹果在半年内面试中考过）
 * 用自己熟悉的编程语言，手写各种初级排序代码，提交到学习总结中。
 * [数组的相对排序](https://leetcode-cn.com/problems/relative-sort-array/) （谷歌在半年内面试中考过）
