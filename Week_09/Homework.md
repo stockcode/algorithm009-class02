@@ -6,7 +6,7 @@
 * [~~反转字符串中的单词 III~~](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/) （微软、字节跳动、华为在半年内面试中考过）
 * [~~仅仅反转字母~~](https://leetcode-cn.com/problems/reverse-only-letters/) （字节跳动在半年内面试中考过）
 * [同构字符串](https://leetcode-cn.com/problems/isomorphic-strings/) （谷歌、亚马逊、微软在半年内面试中考过）
-* [验证回文字符串 Ⅱ](https://leetcode-cn.com/problems/valid-palindrome-ii/) （Facebook 在半年内面试中常考）
+* [~~验证回文字符串 Ⅱ~~](https://leetcode-cn.com/problems/valid-palindrome-ii/) （Facebook 在半年内面试中常考）
 ##中等
 * 在学习总结中，写出 [不同路径 2](https://leetcode-cn.com/problems/valid-palindrome-ii/)  这道题目的状态转移方程。
 * [最长上升子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/) （字节跳动、亚马逊、微软在半年内面试中考过）
