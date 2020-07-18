@@ -3,7 +3,7 @@
 * [~~字符串中的第一个唯一字符~~](https://leetcode-cn.com/problems/first-unique-character-in-a-string/) （亚马逊、微软、Facebook 在半年内面试中考过）
 * [反转字符串 II](https://leetcode-cn.com/problems/reverse-string-ii/) （亚马逊在半年内面试中考过）
 * [~~翻转字符串里的单词~~](https://leetcode-cn.com/problems/reverse-words-in-a-string/) （微软、字节跳动、苹果在半年内面试中考过）
-* [反转字符串中的单词 III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/) （微软、字节跳动、华为在半年内面试中考过）
+* [~~反转字符串中的单词 III~~](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/) （微软、字节跳动、华为在半年内面试中考过）
 * [~~仅仅反转字母~~](https://leetcode-cn.com/problems/reverse-only-letters/) （字节跳动在半年内面试中考过）
 * [同构字符串](https://leetcode-cn.com/problems/isomorphic-strings/) （谷歌、亚马逊、微软在半年内面试中考过）
 * [验证回文字符串 Ⅱ](https://leetcode-cn.com/problems/valid-palindrome-ii/) （Facebook 在半年内面试中常考）
