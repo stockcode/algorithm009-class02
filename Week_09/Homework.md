@@ -1,6 +1,6 @@
 #本周作业
 ##简单
-* [字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/) （亚马逊、微软、Facebook 在半年内面试中考过）
+* [~~字符串中的第一个唯一字符~~](https://leetcode-cn.com/problems/first-unique-character-in-a-string/) （亚马逊、微软、Facebook 在半年内面试中考过）
 * [反转字符串 II](https://leetcode-cn.com/problems/reverse-string-ii/) （亚马逊在半年内面试中考过）
 * [翻转字符串里的单词](https://leetcode-cn.com/problems/reverse-words-in-a-string/) （微软、字节跳动、苹果在半年内面试中考过）
 * [反转字符串中的单词 III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/) （微软、字节跳动、华为在半年内面试中考过）
