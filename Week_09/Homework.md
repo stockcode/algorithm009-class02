@@ -13,7 +13,7 @@
 * [解码方法](https://leetcode-cn.com/problems/decode-ways/) （字节跳动、亚马逊、Facebook 在半年内面试中考过）
 * [字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/) （亚马逊、微软、Facebook 在半年内面试中考过）
 * [找到字符串中所有字母异位词](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/) （Facebook 在半年内面试中常考）
-* [最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/) （亚马逊、字节跳动、华为在半年内面试中常考）
+* [~~最长回文子串~~](https://leetcode-cn.com/problems/longest-palindromic-substring/) （亚马逊、字节跳动、华为在半年内面试中常考）
 ##困难
 * [最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses/) （亚马逊、字节跳动、华为在半年内面试中考过）
 * [赛车](https://leetcode-cn.com/problems/race-car/) （谷歌在半年内面试中考过）
